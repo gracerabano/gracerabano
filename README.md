@@ -1,4 +1,4 @@
-# Hi! My name is Grace Rabano, nice to meet you! 👋
+# Hi! My name is Grace, nice to meet you! 👋
 
 Student and Aspiring Web Developer
 ----------------------------------
